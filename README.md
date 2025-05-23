@@ -34,12 +34,14 @@ Mobile view:-
 
 PureWeave adapts seamlessly to mobile, tablet, and desktop views. Custom media queries ensure a consistent and engaging look across all devices.
 
-## 📂 Folder Structure
+## 📁 Folder Structure
 
-/PureWeave
-├── index.html
-├── style.css
-└── README.md
+```
+PureWeave/
+├── index.html       # Main HTML structure of the landing page
+├── style.css        # Styling and responsive design
+└── README.md        # Project documentation
+```
 
 ## 🚀 Getting Started
 
