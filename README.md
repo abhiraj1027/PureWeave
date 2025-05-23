@@ -46,7 +46,7 @@ PureWeave/
 ## 🚀 Getting Started
 
 1. Clone the repository:
-git clone https://github.com/yourusername/PureWeave.git
+git clone https://github.com/abhiraj1027/PureWeave.git
 
 2. Open `index.html` in your browser.
 
